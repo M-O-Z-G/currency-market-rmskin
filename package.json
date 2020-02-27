@@ -1,0 +1,25 @@
+{
+  "name": "currency-market-rmskin",
+  "version": "2018.7.22",
+  "homepage": "http://github.com/groenroos/bulma-stylus",
+  "author": "Mordasius (https://www.deviantart.com/mordasius)",
+  "description": "This rainmeter skin shows currency prices from INO.com. You'll need at least the 4.2 Final Release version of rainmeter which you can get from Rainmeter.net",
+  "main": "currency_markets_by_mordasius.rmskin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://notabug.org/M-O-Z-G/currency-market-rmskin.git"
+  },
+  "keywords": [
+    "rainmeter",
+    "skin",
+    "currency"
+  ],
+  "bugs": {
+    "url": "https://notabug.org/M-O-Z-G/currency-market-rmskin/issues"
+  },
+  "files": [
+    "public",
+    "src",
+    "README.md"
+  ]
+}
