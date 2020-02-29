@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-02-29 (Unofficial path)
+
+### Fixed
+
+- UpDown style now use Up/Down price instead percentage.
+
 ## 2020-02-27 (Unofficial path)
 
 ### Fixed
